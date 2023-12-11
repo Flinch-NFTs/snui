@@ -144,12 +144,12 @@ export const socials = [
   {
     label: "Discord",
     icon: "TelegramIcon",
-    href: "https://t.me/Finance1869",
+    href: "https://t.me/snowyyields",
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/",
+    href: "https://twitter.com/snowyyields",
   },
 ];
 
@@ -157,3 +157,5 @@ export const MENU_HEIGHT = 64;
 export const MENU_ENTRY_HEIGHT = 48;
 export const SIDEBAR_WIDTH_FULL = 240;
 export const SIDEBAR_WIDTH_REDUCED = 56;
+
+
