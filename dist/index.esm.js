@@ -7620,7 +7620,7 @@ var socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/Finance1869",
+        href: "https://t.me/snowyyields",
       },
     ],
   },
