@@ -8984,7 +8984,7 @@ var AccountModal = function (_a) {
         LinkExternal,
         {
           small: true,
-          href: "https://blockscout.scroll.io/address/" + account,
+          href: "https://snowtrace.io/address/" + account,
           mr: "16px",
         },
         "View on ScrollScan"
